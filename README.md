@@ -3,3 +3,5 @@
 A tap for [Homebrew](https://brew.sh) that provides a formula to install the
 current pre-built
 [neovim nightly](https://github.com/neovim/neovim/releases/tag/nightly)
+
+This fork has been updated to work with Apple Silicon only.
